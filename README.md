@@ -41,3 +41,5 @@ Feel free to open issues and submit pull requests for improvements and features.
 
 ## Author
 Cary Woods
+
+## Version .1 
